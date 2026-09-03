@@ -24,5 +24,5 @@ El programa se ejecuta desde la clase: `App.java` La aplicación funciona median
 
 
 ```bash
-git clone https://github.com/TUUSUARIO/PP_TP1_TULEGAJO.git
+git clone https://github.com/jojomaxz/PP_TP1_53306.git
 cd PP_TP1_TULEGAJO
